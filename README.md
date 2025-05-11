@@ -39,7 +39,7 @@ Esse projeto foi um desafio tecnico que recebi para vaga de desenvolvedor FullSt
 
 
 <details>
-<summary>Gif da Aplicação</summary>
+<summary>Imagens da Aplicação</summary>
 
 <img src='./images/tela-inicial.png' alt='Print da tela inicial' />
 
