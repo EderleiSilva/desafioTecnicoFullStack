@@ -81,29 +81,28 @@ Comecei essa aplicação na quinta feira dia 08/05/2025 depois do trabalho, por 
 ### comandos para instalar no projeto antes de rodar em sua maquina
 - Abra o terminal na raiz do projeto
 
-<details>
-<summary>Verificar se o node js esta instalado na maquina</summary>
+- Verificar se o node js esta instalado na maquina
 Para poder instalar os componentes do node js, para verifficar se tem o node em sua maquina pode usar o comando `node -v` se aparecer a versão quer dizer que ele esta instalado. Caso não apareça a versão baixe o node no link: https://nodejs.org/pt
     
 ```
 node -v
 ```
-</details>
 
-<details>
-<summary>instalar componentes do NodeJs</summary>
+- instalar componentes do NodeJs
 Com o terminal aberto dentro dentro da raiz do projeto digite o comando abaixo:
     
 ```
 npm install
 ```
-</details>
 
-<details>
-<summary>Iniciar a aplicação</summary>
+- Iniciar a aplicação
 Com todos as aplicações acima instaladas podemos iniciar a aplicação com o comando:
     
 ```
 npm run dev
 ```
-</details>
+
+- Caso queira testar o usuário administrador
+
+Email do usuário: admin@admin.com
+Senha: admin 
