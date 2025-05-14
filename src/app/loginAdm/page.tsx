@@ -162,7 +162,7 @@ const AdminUsersPage = () => {
                                 <th className="py-3 px-6 text-left font-semibold text-gray-700">CEP</th>
                                 <th className="py-3 px-6 text-left font-semibold text-gray-700">Estado</th>
                                 <th className="py-3 px-6 text-left font-semibold text-gray-700">Cidade</th>
-                                <th className="py-3 px-6 text-left font-semibold text-gray-700">Role</th>
+                                <th className="py-3 px-6 text-left font-semibold text-gray-700">Papel</th>
                                 <th className="py-3 px-6 text-left font-semibold text-gray-700">Ações</th>
                             </tr>
                         </thead>
@@ -211,7 +211,7 @@ const AdminUsersPage = () => {
             {isEditing && editingUser && (
                 <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center">
                     <div className="bg-white p-8 rounded shadow-md">
-                        <h2 className="text-xl font-bold mb-4 text-gray-900">Editar nome do usuário</h2>
+                        <h2 className="text-xl font-bold mb-4 text-gray-900">Editar usuário</h2>
                         <p className="mb-2 text-gray-700">ID: {editingUser.id}</p>
                         <div className="mb-4">
                             <label htmlFor="newUserName" className="block text-gray-700 text-sm font-bold mb-2">
