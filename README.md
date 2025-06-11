@@ -1,4 +1,4 @@
-# Gerenciamento de usúario
+# Gerenciamento de usúarios
 Desafio ténico FullStack.
 
 1. Foi solicitado uma aplicação web simples de gerenciamento de usuários, utilizando Next.js, banco de dados relacional (preferencialmente SQLite) e utilizando a liguagem TypeScript
