@@ -1,5 +1,5 @@
-# Teste Técnico Full Stack
-Esse projeto foi um desafio tecnico que recebi para vaga de desenvolvedor FullStack com (Ênfase no frontend).
+# Gerenciamento de usúario
+Desafio ténico FullStack.
 
 1. Foi solicitado uma aplicação web simples de gerenciamento de usuários, utilizando Next.js, banco de dados relacional (preferencialmente SQLite) e utilizando a liguagem TypeScript
 
