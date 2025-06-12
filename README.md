@@ -73,9 +73,9 @@ Desafio ténico FullStack.
     - Utilizei o tailwindcss pela primeira vez, fazendo a estilização de uma maneira bem mais facil na aplicação.
 
 ## Planejamento
-No começo do desenvolvimento separei os topicos com o notion, para poder ter uma organização e ir marcando o que ja estava feito, mas errei em começar pelo frontend, pois eu agarrei muito no backend pois eu nunca tinha utilizado SQLite antes e nem Next.JS e isso me atrasou tanto no montagem da aplicação, até descobrir os erros arrumar e o ultimo erro ser pelo cache do navegador que eu não tinha limpado me levou muito tempo.
+No desenvolvimento do projeto, empreguei inicialmente o Notion para organização e gestão de tarefas, o que contribuiu para a estruturação do trabalho. Contudo, identifiquei um desafio significativo ao iniciar o desenvolvimento pelo frontend. Essa abordagem resultou em complexidades inesperadas na integração com o backend, especialmente devido à minha primeira experiência com SQLite e Next.js.
 
-Comecei essa aplicação na quinta feira dia 08/05/2025 depois do trabalho, por volta da 20:00 fui até umas meia noite, na sexta feira a mesma coisa, mas no sabado, fiquei des da hora que acordei até a hora de ir dormi, de 7:00 as 23:00 mais ou menos, e terminei no domingo dia 11/05/2025 as 10:30, fiz o meu maximo e gostei muito do resultado, apesar que pode melhorar muito.
+A falta de familiaridade com essas tecnologias demandou um tempo considerável para a depuração e resolução de problemas, incluindo a identificação e correção de um erro persistente relacionado ao cache do navegador. Essa experiência, embora desafiadora, proporcionou um aprendizado valioso sobre a importância da sequência de desenvolvimento e aprofundou minhas habilidades na resolução de problemas e na depuração de sistemas complexos.
 
 ## Comando para poder rodar a aplicação
 ### comandos para instalar no projeto antes de rodar em sua maquina
